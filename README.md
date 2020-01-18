@@ -12,7 +12,7 @@
 
 # **2. 硬體說明**
 - WaterBox主機外殼為120mm×120mm×65mm的ABS材質防水盒，主要功能如下：
-![](https://paper-attachments.dropbox.com/s_3CC555A8CFF3D8CDA00E57144922BAEC389C3029AF20AB1D8E5FA1CA7DB99776_1576137581614_.png)
+![](Docs/assets/images/hardware.png)
 
 ## **2.1 使用材料(BOM)**
 
@@ -43,8 +43,8 @@ https://www.dropbox.com/s/p1fkxj5bptwpakw/WaterBox_V2.1.avi?dl=0
 A.使用太陽能板充電
 B.使用電路板上USB charge，以MicroUSB線(type B)充電(建議使用1.0A以上)
 
-![充電時紅色LED只是燈會亮起](https://paper-attachments.dropbox.com/s_3CC555A8CFF3D8CDA00E57144922BAEC389C3029AF20AB1D8E5FA1CA7DB99776_1577416001703_file.jpeg)
-![充滿電後量綠色的LED燈](https://paper-attachments.dropbox.com/s_3CC555A8CFF3D8CDA00E57144922BAEC389C3029AF20AB1D8E5FA1CA7DB99776_1577421367742_file.jpeg)
+![充電時紅色LED只是燈會亮起](Docs/assets/images/red_led.png)
+![充滿電後量綠色的LED燈](Docs/assets/images/red_led.png)
 
 ## **2.4 用電分析**
 - 目前水盒子運作時用電約為120mA，以套件包所含的聚合物鋰電池(2000mAh)來說，無外部供電情況下約可持續運作13個小時。
@@ -64,8 +64,8 @@ B.使用電路板上USB charge，以MicroUSB線(type B)充電(建議使用1.0A�
 - 原本的ABS防水盒外殼附有防水膠，安裝時須留意膠條接合的地方避免產生孔隙。
 - (不用鎖緊)，再以對角的安式將四周螺絲鎖緊，避免一次將單一螺絲鎖緊使盒蓋和盒體之間產生孔隙，造成水氣滲入。
 - 針對防水盒開孔部分，建議以中性防水型的矽利康填補空隙，避免水氣由開孔處入滲。
-![防水盒上的膠條應該要填滿不能有空隙](https://paper-attachments.dropbox.com/s_3CC555A8CFF3D8CDA00E57144922BAEC389C3029AF20AB1D8E5FA1CA7DB99776_1577417898609_file.jpeg)
-![建議額外使用矽利康將開孔處填滿，同時避免BNC街頭生鏽；矽利康應選用中性防水型](https://paper-attachments.dropbox.com/s_3CC555A8CFF3D8CDA00E57144922BAEC389C3029AF20AB1D8E5FA1CA7DB99776_1577417888336_file.jpeg)
+![防水盒上的膠條應該要填滿不能有空隙](Docs/assets/images/waterproof_1.jpeg)
+![建議額外使用矽利康將開孔處填滿，同時避免BNC街頭生鏽；矽利康應選用中性防水型](Docs/assets/images/waterproof_2.jpeg)
 
 # **3. 韌體說明**
 ## **3.1 LinkIt 7697 介紹**
@@ -73,7 +73,7 @@ B.使用電路板上USB charge，以MicroUSB線(type B)充電(建議使用1.0A�
 - [Documents](https://docs.labs.mediatek.com/resource/linkit7697-arduino/en/download)
 ## **3.2 LinkIt 7697 腳位使用情況**
 - LinkIt 7697 腳位功能介紹
-![https://docs.labs.mediatek.com/linkit-7697-blocklyduino/linkit-7697-12880255.html](https://docs.labs.mediatek.com/linkit-7697-blocklyduino/files/12880255/12883479/1/1531359145471/image2018-7-12+9%3A40%3A22.png)
+![https://docs.labs.mediatek.com/linkit-7697-blocklyduino/linkit-7697-12880255.html](Docs/assets/images/linkit7697_pin.png)
 
 
 
